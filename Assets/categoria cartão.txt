@@ -1,0 +1,13 @@
+
+Visa: O número inicial é 4
+Mastercard: O número inicial é 51 a 55, ou 2221 a 2720
+Elo: O número inicial pode ser 636368, 438935, 504175, 451416, 636297, 5067, 4576, 4011 ou 506699
+American Express: O número inicial é 34 ou 37
+Diners: O número inicial é 301, 305, 36 ou 3872.
+Discover: O número inicial é 6
+Aura: 50
+Enroute: o numero inicial 20
+JCB: o numero inicial 35
+Voyager:o numero inicial  86
+HiperCard:o numero inicial 6062,38
+Ourocard : o numero inicial 4984 08 
